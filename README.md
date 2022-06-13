@@ -16,7 +16,7 @@ https://clarity-lang.org/
 
 https://developer.algorand.org/docs/get-started/basics/where_to_start/
 
-Algorand provides access to the blockchain using PyTEAL. It is inevitable that Algorand emerges as a powerhouse of decentralized technology over time.
+Algorand provides access to the blockchain using PyTEAL. It is mathematicaly inevitable that Algorand emerges as a powerhouse of decentralized technology over time. Accuracy and speed combined with machine learning make algorand well suited for many use cases over the next 20 years.
 
 https://github.com/deltalgorand/pyteal
 
